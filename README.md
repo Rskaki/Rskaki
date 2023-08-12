@@ -15,7 +15,9 @@
 <br>
 <br>
   <br>
-
+ ![Rskaki's github stats](https://github-readme-stats.vercel.app/api?username=Rskaki&show_icons=true&theme=tokyonight)
+ | ![Rskaki GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rskaki&theme=tokyonight) |
+| --- | --- |
 
 <!--
 **Rskaki/Rskaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

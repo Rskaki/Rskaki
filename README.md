@@ -17,15 +17,8 @@
   <br>
 
 
- </head>
-<body>
-    <div class="terminal">
-        <div><span class="prompt">sahlirachid472@gmail.com:~$</span> <span class="command">echo User</span></div>
-        <div class="output">User</div>
-    </div>
-</body>
-</html>
-<!--
+
+                               sahlirachid427@gmail.com
 **Rskaki/Rskaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 <h1> Hello, I'm RS</h1>
-   Student in Data Science.
 <p align='center'>
 
 
@@ -17,4 +16,4 @@
 <br>
   <br>
 
-
+<p>Ceci est un exemple de paragraphe.</p>

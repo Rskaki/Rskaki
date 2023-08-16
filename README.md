@@ -15,5 +15,3 @@
 <br>
 <br>
   <br>
-
-<p>Ceci est un exemple de paragraphe.</p>

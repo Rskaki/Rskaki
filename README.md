@@ -2,9 +2,6 @@
 <h1> Hello, I'm RS</h1>
 <p align='center'>
 
-
-
-
 <h2> 
 <h2> 
  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
